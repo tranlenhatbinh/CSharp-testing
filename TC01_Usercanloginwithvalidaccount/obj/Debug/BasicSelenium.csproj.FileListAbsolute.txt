@@ -1,0 +1,11 @@
+D:\C#\Selenium\Visual\TC01_Usercanloginwithvalidaccount\TC01_Usercanloginwithvalidaccount\bin\Debug\WebDriver.dll
+D:\C#\Selenium\Visual\TC01_Usercanloginwithvalidaccount\TC01_Usercanloginwithvalidaccount\bin\Debug\WebDriver.Support.dll
+D:\C#\Selenium\Visual\TC01_Usercanloginwithvalidaccount\TC01_Usercanloginwithvalidaccount\bin\Debug\WebDriver.pdb
+D:\C#\Selenium\Visual\TC01_Usercanloginwithvalidaccount\TC01_Usercanloginwithvalidaccount\bin\Debug\WebDriver.xml
+D:\C#\Selenium\Visual\TC01_Usercanloginwithvalidaccount\TC01_Usercanloginwithvalidaccount\bin\Debug\WebDriver.Support.pdb
+D:\C#\Selenium\Visual\TC01_Usercanloginwithvalidaccount\TC01_Usercanloginwithvalidaccount\bin\Debug\WebDriver.Support.xml
+D:\C#\Selenium\Visual\TC01_Usercanloginwithvalidaccount\TC01_Usercanloginwithvalidaccount\obj\Debug\BasicSelenium.csprojResolveAssemblyReference.cache
+D:\C#\Selenium\Visual\TC01_Usercanloginwithvalidaccount\TC01_Usercanloginwithvalidaccount\bin\Debug\BasicSelenium.dll
+D:\C#\Selenium\Visual\TC01_Usercanloginwithvalidaccount\TC01_Usercanloginwithvalidaccount\bin\Debug\BasicSelenium.pdb
+D:\C#\Selenium\Visual\TC01_Usercanloginwithvalidaccount\TC01_Usercanloginwithvalidaccount\obj\Debug\BasicSelenium.dll
+D:\C#\Selenium\Visual\TC01_Usercanloginwithvalidaccount\TC01_Usercanloginwithvalidaccount\obj\Debug\BasicSelenium.pdb
